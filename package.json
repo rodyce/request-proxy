@@ -1,0 +1,20 @@
+{
+    "name" : "request-proxy",
+    "version" : "0.0.1",
+
+    "description" : "Request proxy to return data based on rules",
+    "author": "Rodimiro Cerrato",
+
+    "main" : "request-proxy.js",
+
+    "dependencies" : {
+        "http-proxy" : "*",
+        "colors" : "*"
+    },
+
+    "engines" : {
+        "node" : ">=0.10.0"
+    },
+
+    "license" : "LGPL"
+}
